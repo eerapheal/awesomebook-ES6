@@ -1,49 +1,51 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Project Name
+# Project Name
 Awesome books.
 
-Description of project.
+# Description of project.
 Awesome books app using modules. and ES6 syntax..
 
-Project web demo link.
-https://github.com/eerapheal/awesomebook-ES6
+# Project web demo link.
+https://eerapheal.github.io/awesomebook-ES6/
 
-Built With
+# Built With
 Html. Css. JS.
 
 Website link:
-Getting starting
+# Getting starting
 To get a local copy up and running follow these simple example steps:
 
-Prerequisites
+## Prerequisites
 Vscode. must have git installed.
 
-Setup
+## Setup
 Clone this repo with:
+
+https://github.com/eerapheal/awesomebook-ES6.git
 
 cd awesomebook-ES6
 
-Install
+## Install
 npm install
 
-Author1
+## Author1
 Ekpenisi Erue Raphael.
 
 GitHub: (https://github.com/eerapheal);
 Twitter: (https://twitter.com/ekpenisiraphael);
 LinkedIn: (https://www.linkedin.com/in/ekpenisi-e-raphael-9678a221a/)
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]Fork the Project Create your Feature Branch (git checkout -b 'branchname') Commit your Changes (git commit -m 'Add some branchname') Push to the Branch (git push origin branchname) Open a Pull Request Feel free to check the
 
-Deployment
+## Deployment
 Push changes to a branch. Wait for the build to pass on our CI server. Tell Hubot to deploy it. Verify that the changes work and fix any problems that come up. Merge the branch into master.
 
-Show your support
+# Show your support
 Give a ⭐️ if you like this project!
 
-Acknowledgments
+# Acknowledgments
  MICROVERSE and My Team.
 
-License This project is MIT licensed.
+### License This project is MIT licensed.
