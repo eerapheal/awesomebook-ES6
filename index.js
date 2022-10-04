@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
 const time = document.querySelector('.time');
 const date = document.querySelector('.date');
 
-function formatTime(date) {
+let formatTime = (date) => {
   const hour = date.getHours() % 12 || 12;
   const minutes = date.getMinutes();
   const seconds = date.getSeconds();
@@ -100,7 +100,7 @@ function formatTime(date) {
     .padStart(2, '0')}:${seconds.toString().padStart(2, '0')} ${state}`;
 }
 
-function formatDate(date) {
+ let formatDate = (date) => {
   const months = [
     'Jan',
     'Feb',
