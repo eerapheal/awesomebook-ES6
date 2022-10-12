@@ -4,6 +4,9 @@ import {
   bookAuthor,
   bookAdd
 } from './module/vardeclearations.js';
+
+
+
 import { DateTime, Duration, FixedOffsetZone, IANAZone, Info, Interval, InvalidZone, Settings, SystemZone, VERSION, Zone } from './module/luxon.js';
 import SwitchPage from './module/swither.js';
 
@@ -15,7 +18,7 @@ class Booklibrary {
         author: 'Sidney Sheldon',
       },
       {
-        title: 'The Naked Face',
+        title: 'The Naked Faces',
         author: 'Sidney Sheldon',
       },
     ];
