@@ -10,11 +10,14 @@
 }
 
 .main-body {
-  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background-image: linear-gradient(170deg, #f3d3f3, #ccc3c3, #3d5dc7);
+  background-repeat: no-repeat;
+  background-position: cover;
+  min-height: 100vh;
 }
 
 .nav-items {
