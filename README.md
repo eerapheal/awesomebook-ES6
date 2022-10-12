@@ -32,9 +32,9 @@ npm install
 ## Author1
 Ekpenisi Erue Raphael.
 
-GitHub: (https://github.com/eerapheal);
-Twitter: (https://twitter.com/ekpenisiraphael);
-LinkedIn: (https://www.linkedin.com/in/ekpenisi-e-raphael-9678a221a/)
+- GitHub: (https://github.com/eerapheal);
+- Twitter: (https://twitter.com/ekpenisiraphael);
+- LinkedIn: (https://www.linkedin.com/in/ekpenisi-e-raphael-9678a221a/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]Fork the Project Create your Feature Branch (git checkout -b 'branchname') Commit your Changes (git commit -m 'Add some branchname') Push to the Branch (git push origin branchname) Open a Pull Request Feel free to check the
